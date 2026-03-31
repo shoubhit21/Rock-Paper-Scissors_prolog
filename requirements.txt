@@ -1,0 +1,10 @@
+# For this Prolog game, you only need one thing:
+
+SWI-Prolog (version 8.x or later)
+
+# How to install it:
+# - Windows: download the installer from https://www.swi-prolog.org/download/stable
+# - macOS: brew install swi-prolog
+# - Linux (Ubuntu/Debian): sudo apt-get install swi-prolog
+
+# That's it! No extra libraries or packages are needed.
