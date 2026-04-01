@@ -1,15 +1,15 @@
 # Rock-Paper-Scissors_prolog
 **Course:** CSA2001 – Fundamentals in AI and ML
-**Submitted by:** Shoubhit Paramanick | 25BECE10083 | 31st March 2026
+| **Submitted by:** Shoubhit Paramanick | 25BCE10083 | 31st March 2026
 ## Objective
-A simple, text‑based Rock‑Paper‑Scissors game written in **SWI‑Prolog**. The player competes against the computer, which makes a random move each round. The game continues until the player types `quit.`
+A simple, text‑based Rock‑Paper‑Scissors game written in **SWI‑Prolog**. The player comppetes against the computer, in which the player takes a round by choice form `rock.` `paper.` and `scissors.` whereas the computer makes a rondom move each time. The game continues until the player himself types `quit.`
 
 ## Features
 
 - Clear, interactive gameplay in the Prolog console.
-- Computer chooses randomly using Prolog’s built‑in `random/3`.
-- Handles invalid inputs and allows graceful exit.
-- Very short, efficient code – easy to understand and modify.
+- Computer chooses each moves randomly using Prolog’s built‑in `random/3`.
+- Handles invalid inputs and gives a beautiful exit.
+- Short adn efficient code – easy to understand and modify.
 
 ## How to Play
 
